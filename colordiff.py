@@ -1,0 +1,5 @@
+a=set(["GREEN","BLUE","ORANGE","BLACK"])
+b=set(["BLACK","WHITE","RED","VIOLET","BROWN"])
+print(a)
+print(b)
+print("The colors that not in second set :",a.difference(b))
